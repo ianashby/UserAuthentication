@@ -12,8 +12,6 @@ Once the server boots up, you can access the web app by clicking the link in the
 
 The purpose of creating this web app project was to become familiar and comfortable with Node.js. I aimed to learn as much as I could given the scope of this project. This project has illustrated just how important and valuable Node.js is for backend JavaScript development. I am glad to report that I feel confident using Node.js for future projects now and cannot wait to learn more.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/SK7DtbtKd98)
 
 # Web Pages

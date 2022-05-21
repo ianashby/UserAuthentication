@@ -32,7 +32,6 @@ app.get('/login', (req, res) => {
 app.post('/register', async (req, res) => {
     try {
         users.push({
-            id: Date.now().toString(),
             name: req.body.name,
             email: req.body.email,
             password: req.body.password
@@ -56,4 +55,4 @@ app.post('/login', (req, res) => {
 });
 
 app.listen(port);
-console.log('Server started at http://localhost:' + port);
+console.log('Server started at http://localhost:' + port + '/register');
